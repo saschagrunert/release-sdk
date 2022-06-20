@@ -13,7 +13,7 @@ require (
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.5.0
 	github.com/sigstore/cosign v1.9.0
 	github.com/sirupsen/logrus v1.8.1
-	github.com/stretchr/testify v1.7.2
+	github.com/stretchr/testify v1.7.3
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
 	k8s.io/apimachinery v0.24.1
 	sigs.k8s.io/release-utils v0.7.0
