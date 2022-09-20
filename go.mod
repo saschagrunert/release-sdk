@@ -6,11 +6,11 @@ require (
 	github.com/blang/semver/v4 v4.0.0
 	github.com/carolynvs/magex v0.9.0
 	github.com/go-git/go-git/v5 v5.4.2
-	github.com/google/go-containerregistry v0.11.0
-	github.com/google/go-github/v47 v47.0.0
+	github.com/google/go-containerregistry v0.10.0
+	github.com/google/go-github/v47 v47.1.0
 	github.com/magefile/mage v1.13.0
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.5.0
-	github.com/sigstore/cosign v1.11.1
+	github.com/sigstore/cosign v1.10.0
 	github.com/sigstore/rekor v0.11.0
 	github.com/sirupsen/logrus v1.9.0
 	github.com/stretchr/testify v1.8.0
@@ -59,6 +59,7 @@ require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
 	github.com/blang/semver v3.5.1+incompatible // indirect
+	github.com/blendle/zapdriver v1.3.1 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.3 // indirect
 	github.com/census-instrumentation/opencensus-proto v0.3.0 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
@@ -120,7 +121,7 @@ require (
 	github.com/google/btree v1.0.1 // indirect
 	github.com/google/certificate-transparency-go v1.1.3 // indirect
 	github.com/google/gnostic v0.5.7-v3refs // indirect
-	github.com/google/go-cmp v0.5.8 // indirect
+	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/google/go-github/v45 v45.2.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
@@ -187,8 +188,8 @@ require (
 	github.com/segmentio/ksuid v1.0.4 // indirect
 	github.com/sergi/go-diff v1.2.0 // indirect
 	github.com/shibumi/go-pathspec v1.3.0 // indirect
-	github.com/sigstore/fulcio v0.5.3 // indirect
-	github.com/sigstore/sigstore v1.4.0 // indirect
+	github.com/sigstore/fulcio v0.5.1 // indirect
+	github.com/sigstore/sigstore v1.3.1-0.20220630102118-77b1712d5cfd // indirect
 	github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966 // indirect
 	github.com/soheilhy/cmux v0.1.5 // indirect
 	github.com/spf13/afero v1.8.2 // indirect
@@ -270,6 +271,7 @@ require (
 	k8s.io/klog/v2 v2.70.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20220803162953-67bda5d908f1 // indirect
 	k8s.io/utils v0.0.0-20220728103510-ee6ede2d64ed // indirect
+	knative.dev/pkg v0.0.0-20220325200448-1f7514acd0c2 // indirect
 	sigs.k8s.io/json v0.0.0-20220713155537-f223a00ba0e2 // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.3 // indirect
 	sigs.k8s.io/yaml v1.3.0 // indirect
